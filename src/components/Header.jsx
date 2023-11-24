@@ -23,8 +23,10 @@ function Header() {
   return (
     <header className={`${stickyClass}`}>
       <div className="header-inner">
-        <span className="logo">Umaima.</span>
-        <div className="links">
+       <span className="logo text-white">
+        <i className="fas fa-infinity" /> UmaIma 
+        </span>
+       <div className="links">
           <a className="link" href="#banner">
             Home
           </a>

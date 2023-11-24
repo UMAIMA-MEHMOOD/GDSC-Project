@@ -3,21 +3,21 @@ import React, { useState } from "react";
 function ServicesExperience() {
   const [services] = useState([
     {
-      icon: "fa-paintbrush",
-      title: "UI Design",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      icon: "fa-cloud",
+      title: "Cloud Infrastructure Management",
+      desc: "Manage and optime the use of cloud-based infrastructure, such as Amazon Web Services(AWS), Microsoft Azure, or Google Cloud Performance(GCP).",
       active: false,
     },
     {
-      icon: "fa-pen-to-square",
-      title: "Product Design",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      icon: "fa-wrench spanner",
+      title: "Continous Integration and Deployment (CI/CD)",
+      desc: "Automate the building,testing, and deployment of software, using tools like Jenkins, Travis CI, and CircleCI.",
       active: true,
     },
     {
-      icon: "fa-ruler",
-      title: "Branding",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      icon: "fa-gear",
+      title: "Monitoring and Logging",
+      desc: "Monitor the performance and health of your applications and infrastructure, and to collect and analyze log data to troubleshoot issues.",
       active: false,
     },
   ]);
@@ -39,7 +39,7 @@ function ServicesExperience() {
         </div>
         <div className="experiences" id="experiences">
           <div className="experience">
-            <h3>12</h3>
+            <h3>12+</h3>
             <p>Year Experience</p>
           </div>
           <div className="portfolios">

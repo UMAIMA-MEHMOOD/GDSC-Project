@@ -7,38 +7,38 @@ function Projects() {
     {
       title: "Project 1",
       img: "/projects/1.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
     {
       title: "Project 2",
       img: "/projects/2.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
     {
       title: "Project 3",
       img: "/projects/3.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
     {
       title: "Project 4",
       img: "/projects/4.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
     {
       title: "Project 5",
       img: "/projects/5.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
     {
       title: "Project 6",
       img: "/projects/6.png",
-      gLink: "https://github.com/hafizjavaid",
-      lLink: "https://me-hafiz.netlify.app/",
+      gLink: "https://github.com/UMAIMA-MEHMOOD",
+      // lLink: "https://me-hafiz.netlify.app/",
     },
   ]);
   return (
@@ -47,7 +47,7 @@ function Projects() {
         <div className="title">
           <h3>Featured Projects</h3>
           <a
-            href="https://github.com/hafizjavaid"
+            href="https://github.com/UMAIMA-MEHMOOD"
             target="_blank"
             className="btn"
             rel="noreferrer"
