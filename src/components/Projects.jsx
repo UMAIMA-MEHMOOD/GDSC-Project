@@ -52,7 +52,7 @@ function Projects() {
             className="btn"
             rel="noreferrer"
           >
-            View All
+          View All
           </a>
         </div>
         <div className="projects-wrapper">

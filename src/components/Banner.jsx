@@ -7,7 +7,7 @@ function Banner() {
       <div className="container">
         <div className="banner-wrapper">
           <div className="banner-img px-5" >
-             <img src="/Image.jpg" alt="" height={400} ></img> 
+             <img src="/Umaimaimage.png" alt="" height={950} ></img> 
           </div>
           <div className="banner-content">
             <h6 className="text-white">Hello, I'm Umaima Mehmood</h6>
